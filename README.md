@@ -19,4 +19,4 @@ My freetime is spent:
 
 Since the pandemic has been going on since March most of my freetime has been spent playing video games
 
-![](https://images-na.ssl-images-amazon.com/images/I/91T0XQv8gEL._SL1500_.jpg height="100" width="100")
+![](https://images-na.ssl-images-amazon.com/images/I/91T0XQv8gEL._SL1500_.jpg height="100" width="100" /)
