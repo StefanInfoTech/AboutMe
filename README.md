@@ -14,6 +14,7 @@ My freetime is spent:
 * Running
 * Lifting
 * Going for walks
+* Watching Movies
 
 #### Video Games
 
@@ -21,3 +22,6 @@ Since the pandemic has been going on since March most of my freetime has been sp
 
 <img src ="https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png" height="100" width="100"> <img src ="https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg?t=1592866696" height="100" width="100">
 
+#### Movies
+
+Some movies I have watched over the pandemic are:
