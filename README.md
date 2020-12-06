@@ -4,7 +4,7 @@
 
 #### Personal Life
 
-I moved to **Columbia, MO** my sophmore year of highschool and attended *Rockbridge Highschool*. I played lacrosse my sophomore and junior year. I applied to [*Mizzou*](https://missouri.edu/) and got accepted my senior year. I wasn't sure what I wanted to do so I took my dads suggestion to try out Information Technology. So far ive enjoyed the abstract concepts and plan to stick with the major.
+I moved to **Columbia, MO** my sophmore year of highschool and attended *Rockbridge Highschool*. I played lacrosse my sophomore and junior year. I applied to [*Mizzou*](https://missouri.edu/) and got accepted my senior year. I wasn't sure what I wanted to do so I decided to try out Information Technology. So far ive enjoyed the abstract concepts and plan to stick with the major.
 
 #### Interests
 
