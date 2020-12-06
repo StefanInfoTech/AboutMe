@@ -21,3 +21,10 @@ My freetime is spent:
 Since the pandemic has been going on since March most of my freetime has been spent playing video games
 
 <img src ="https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png" height="460" width="460"> <img src ="https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg?t=1592866696" height="460" width="460"> ![Mojang](https://github.com/mojang.png)
+
+#### Code
+
+The first code ive ever written was
+
+x = "Hello, World"
+  print(x)
