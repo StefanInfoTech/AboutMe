@@ -26,7 +26,8 @@ Since the pandemic has been going on since March most of my freetime has been sp
 
 The best code ive ever written was:
 
-`'''
+`
+'''
 A sample program to calculate distance: distance = rate * time
 to demonstrate exception handling.
 This program asks the user if they want to continue and execute the program again
