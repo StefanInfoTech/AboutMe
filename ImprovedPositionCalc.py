@@ -38,7 +38,7 @@ def main():
         do_again = input("Would you like the program to continue? Y/y: ")
         if do_again != "Y" or do_again != "y":
             print("Thank you & Goodbye")
-            break
+            break 
 
 
 #call main to begin the program
