@@ -11,7 +11,7 @@ I moved to **Columbia, MO** my sophmore year of highschool and attended *Rockbri
 My freetime is spent:
 * Playing Video Games
 * Golfing
-* Running
+* Running  
 * Lifting
 * Going for walks
 * Watching Movies
